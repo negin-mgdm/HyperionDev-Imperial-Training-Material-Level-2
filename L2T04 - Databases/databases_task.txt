@@ -1,0 +1,52 @@
+Answer the following questions:
+
+1. Define each of the following terms:
+
+a) Data: Data refers to unprocessed raw facts, such as an individual's name or address. 
+The smallest data unit that a computer can comprehend is a single character, and it consumes only 1 byte of computer storage.
+b) Field: A field is a character or a collection of characters which have a specific meaning, utilised for defining and storing data.
+c) Record: A record is a logically linked collection of one or more fields that provides a description of an individual, location, or object.
+d) File: A file is a collection of related records.
+
+                                        *******************************************************
+
+2. What is a DBMS and what are its advantages?
+
+Databases rely on specialized software referred to as a Database Management System (DBMS). 
+The DBMS serves as an intermediary between users and the database, tasked with the organization and control of data access.
+The DBMS functions by receiving user requests and subsequently translating them into the intricate operations needed to execute those requests.
+
+One of the significant advantages of using a DBMS is that it shields the user from the complex inner workings of the database. 
+The DBMS manages how data is stored, structured, or retrieved.
+
+The DBMS offers a couple of key benefits: Firstly, it enables multiple users and applications to access the same data simultaneously. 
+It also ensures that all users see the data in a consistent manner, even if they have different needs. 
+So, it acts like a bridge between the diverse data demands and the actual data storage.
+
+The DBMS advantages:
+1. Better data integration 2. Improved data access 3. Better data sharing 4. Minimised data inconsistency
+5. Improved decision making 6. Increased end-user productivity 
+
+                                        *******************************************************
+
+3. Explain the difference between data and information.
+
+Data refers unprocessed, raw facts. They lack context, meaning, or interpretation. 
+On the other hand, information refers to the results from the processing and organising of data to provide context, meaning, and relevance.
+
+                                        *******************************************************
+
+4. What is metadata?
+
+Metadata refers to data that provides information about other data. It provides context and information about other data, 
+enabling users to understand, categorise, and manage various types of information more effectively. 
+This is particularly valuable when dealing with large volumes of data, such as in databases or digital libraries.
+
+                                        *******************************************************
+
+5. Given the file below, answer the following questions:
+
+e) How many records does the file contain? The file contains 4 records.
+f) How many fields are there per record? There are 5 fields per record.
+
+
